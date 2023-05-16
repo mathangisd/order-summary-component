@@ -42,7 +42,7 @@ Users should be able to:
 
 - Solution URL : [Git URL](https://github.com/mathangisd/order-summary-component.git)
 
-- Live URL : [Order Summary Component on Netlify](https://nftpreview-msd.netlify.app/)
+- Live URL : [Order Summary Component on Netlify](https://order-summary-component-msd.netlify.app/)
 
 
 ## My process
