@@ -55,14 +55,15 @@ Users should be able to:
 
 ### What I learned
 
-I was able to test out grid template areas , media query and background properties. 
+I was able to test out grid template areas , media query and background properties. I was able to use sr-only class.
 
 ### Continued-Development
 I would like to keep working on other projects that involve different responsive layouts.
 
 ### Useful resources
 
-- [W3 schools -Overlay Effect](https://www.w3schools.com/howto/howto_css_image_overlay_icon.asp)
+- [WebAIM](https://webaim.org/techniques/css/invisiblecontent/)
+
 
 ## Author
 - Website - [Mathangi Subramanian](https://github.com/mathangisd)
