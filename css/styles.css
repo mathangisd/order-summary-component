@@ -194,7 +194,7 @@ Card
     color: var(--dark-blue);
 }
 
-.sr-only:not(:focus):not(:active) {
+.sr-only{
     border:0; 
     clip: rect(1px, 1px, 1px, 1px);
     -webkit-clip-path: inset(50%);
